@@ -1,8 +1,8 @@
-# GDGPR Activity
+
 
 ## Participants
 
-| Name   | USN        |
+| Nayana.A  | 1TU24CS109      
 |--------|------------|
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
